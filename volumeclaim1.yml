@@ -2,7 +2,7 @@
 kind: PersistentVolumeClaim
 apiVersion: v1
 metadata:
-  name: pvc
+  name: pvc1
 spec:
   storageClassName: manual
   accessModes:
